@@ -1,0 +1,28 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.nav-item{
+    float: right;
+}
+
+.navbar-brand{
+    margin-left: 50px;
+    width: 150px;
+}
+
+.judul {
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+}
+.garisbawah {
+    text-decoration: underline;
+    margin-bottom: 50px;
+}
+
+.row {
+    margin-left: 50px;
+}

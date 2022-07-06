@@ -1,0 +1,14 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.nav-item{
+    float: right;
+}
+
+.navbar-brand{
+    margin-left: 50px;
+    width: 150px;
+}
